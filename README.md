@@ -1,1 +1,1 @@
-Hi, I'm Arin. 👋 I'm a Full Stack Web Developer specializing in React. As a lifelong tech enthusiast, I've always wanted to get into web development, and now I'm chasing my dreams with the help of Lambda School.
+Hi! 👋 My name is Arin Ramer and I'm a recent graduate of Lambda School, a 9 month long technical training program specializing in web development and computer science fundamentals, with a focus on group project work that mimics the product development lifecycle. I was in the web track, where I learned JavaScript, React, Redux, Node.js, Express, and Python.
